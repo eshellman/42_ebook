@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta name="dtb:uid" content="9781938616426"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="9"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>Forty Two</text></docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1"><navLabel><text>Front Cover</text></navLabel><content src="cover.html"/></navPoint>
+<navPoint id="navpoint-2" playOrder="2"><navLabel><text>Half-title Page</text></navLabel><content src="01_Halftitle.html"/></navPoint>
+<navPoint id="navpoint-3" playOrder="3"><navLabel><text>Title Page</text></navLabel><content src="02_title.html"/></navPoint>
+<navPoint id="navpoint-4" playOrder="4"><navLabel><text>Copyright Page</text></navLabel><content src="03_copyright.html"/></navPoint>
+<navPoint id="navpoint-5" playOrder="5"><navLabel><text>Dedication</text></navLabel><content src="04_dedication.html"/></navPoint>
+<navPoint id="navpoint-6" playOrder="6"><navLabel><text>Contents</text></navLabel><content src="06_toc.html"/></navPoint>
+<navPoint id="navpoint-16" playOrder="7"><navLabel><text>Chapter</text></navLabel><content src="16_chapter01.html"/></navPoint>
+<navPoint id="navpoint-58" playOrder="8"><navLabel><text>Index</text></navLabel><content src="40_Index.html"/></navPoint>
+<navPoint id="navpoint-60" playOrder="9"><navLabel><text>Back Cover</text></navLabel><content src="backcover.html"/></navPoint>
+</navMap>
+</ncx>

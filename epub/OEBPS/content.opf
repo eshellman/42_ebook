@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="isbn" version="2.0">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>Forty Two</dc:title>
+<dc:creator>E. S. Hellman</dc:creator>
+<dc:publisher>Gluejar, Inc.</dc:publisher>
+<dc:rights>Creative Commons 3.0</dc:rights>
+<dc:identifier id="isbn">9781938616426</dc:identifier>
+<dc:language>en</dc:language>
+<meta name="cover" content="cover-image"/></metadata>
+<manifest>
+<!--fonts-->
+<item id="font1" href="fonts/DejaVuSerif.ttf" media-type="application/x-font-ttf"/>
+<item id="stylesheet" href="9781938616426.css" media-type="text/css"/>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="page-template" href="page-template.xpgt" media-type="application/vnd.adobe-page-template+xml"/>
+<item href="pagemap.xml" id="ncxpagemap" media-type="application/oebps-page-map+xml"/>
+<item id="cover" href="cover.html" media-type="application/xhtml+xml"/>
+<item id="body01" href="01_Halftitle.html" media-type="application/xhtml+xml"/>
+<item id="body02" href="02_title.html" media-type="application/xhtml+xml"/>
+<item id="body03" href="03_copyright.html" media-type="application/xhtml+xml"/>
+<item id="body04" href="04_dedication.html" media-type="application/xhtml+xml"/>
+<item id="body05" href="05_authornote.html" media-type="application/xhtml+xml"/>
+<item id="body06" href="06_toc.html" media-type="application/xhtml+xml"/>
+<item id="body17" href="16_chapter01.html" media-type="application/xhtml+xml"/>
+<item id="body41" href="40_Index.html" media-type="application/xhtml+xml"/>
+<item id="backcover" href="backcover.html" media-type="application/xhtml+xml"/>
+<item href="images/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+<item href="images/backcover.jpg" id="backcover-image" media-type="image/jpeg"/>
+<item id="img01" href="images/42.png" media-type="image/png"/>
+<item id="logo" href="images/img_logo.jpg" media-type="image/jpeg"/>
+<item id="img02" href="images/cc_by_sa.png" media-type="image/png"/>
+</manifest>
+<spine page-map="ncxpagemap" toc="ncx">
+<itemref idref="cover" linear="yes"/>
+<itemref idref="body01" linear="yes"/>
+<itemref idref="body02" linear="yes"/>
+<itemref idref="body03" linear="yes"/>
+<itemref idref="body04" linear="yes"/>
+<itemref idref="body05" linear="yes"/>
+<itemref idref="body06" linear="yes"/>
+<itemref idref="body17" linear="yes"/>
+<itemref idref="body41" linear="yes"/>
+<itemref idref="backcover" linear="yes"/>
+</spine>
+<guide>
+<reference type="cover" title="Cover Page" href="cover.html"/>
+<reference type="title" title="Title Page" href="02_title.html"/>
+<reference type="toc" title="Contents" href="06_toc.html"/>
+</guide>
+</package>
