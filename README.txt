@@ -6,3 +6,4 @@ https://sites.google.com/site/spontaneousderivation/an-epub-tutorial/creating-th
 (or the applescript from danrodney based on these instructions
 http://www.mobileread.com/forums/attachment.php?attachmentid=60233&d=1288118871 )
 
+This book, including all its constituent files, are distributed under Creative Commons Attribution- Share-Alike (Unported) 3.0 License. http://creativecommons.org/licenses/by-sa/3.0/us/
